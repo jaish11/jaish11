@@ -5,7 +5,7 @@
 💻 Skilled in MERN Stack, and currently learning .NET and SQL to expand my backend knowledge.
 🚀 Working on a real-world project — Employee Management System (private project).
 💬 Ask me about React, Node.js, Express, MongoDB, JavaScript, HTML, and CSS.
-📫 You can reach me at arshaif0786@gmail.com
+📫 You can reach me at engjaish2004@gmail.com
 .
 🔗 Let’s connect on LinkedIn
 .
