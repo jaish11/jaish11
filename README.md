@@ -47,19 +47,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jaish-ansari/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:engjaish2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
-
----
-
 ## ⚒️ Languages & Tools
 
 <p align="left">
@@ -84,7 +71,18 @@
 </p>
 
 ---
+## 🌐 Connect With Me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/jaish-ansari/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:engjaish2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+---
 ## ✨ Quote
 
 > “Code is not just syntax. It is solving real problems.”
