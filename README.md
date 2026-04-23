@@ -23,11 +23,13 @@
 📊 Skilled in database design, optimization, and Stored Procedures  
 🔗 Experience integrating third-party APIs and enterprise-level solutions  
 🎯 Focused on writing clean, maintainable code and solving real-world problems efficiently  
+  
 ---
 
 ## 💬 Ask Me About
 
-✔️ Full-Stack Development  
+✔️ Full-Stack Development 
+
 ✔️ .NET Core  
 ✔️ .NET Web API  
 ✔️ React.js  
