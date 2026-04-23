@@ -29,18 +29,17 @@
 ## 💬 Ask Me About
 
 ✔️ Full-Stack Development 
-
 ✔️ .NET Core  
 ✔️ .NET Web API  
+✔️ MS SQL Server  
 ✔️ React.js  
 ✔️ Angular  
-✔️ Node.js  
-✔️ Express.js  
-✔️ MongoDB  
-✔️ MS SQL Server  
 ✔️ Dapper  
 ✔️ Entity Framework  
 ✔️ Stored Procedures  
+✔️ Node.js  
+✔️ Express.js  
+✔️ MongoDB  
 ✔️ JavaScript  
 ✔️ HTML / CSS  
 ✔️ REST APIs  
