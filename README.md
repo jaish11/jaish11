@@ -1,86 +1,90 @@
-<h1 align="center">Hi 👋, I'm Jaish Ansari</h1> <h3 align="center">Software Engineer</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaifansar1&label=Profile%20views&color=0e75b6&style=flat" alt="Jaish Ansari" /> </p>
+<h1 align="center">Hi 👋, I'm Jaish Ansari</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
-👨‍💻 I'm a passionate Software Engineer who loves turning ideas into real, working applications.
-🌱 I’m currently working at Shiwansh Solution as a Software Developer.
-💻 Skilled in MERN Stack, and currently learning .NET and SQL to expand my backend knowledge.
-🚀 Working on a real-world project — Employee Management System (private project).
-💬 Ask me about React, Node.js, Express, MongoDB, JavaScript, HTML, and CSS.
-📫 You can reach me at engjaish2004@gmail.com
-.
-🔗 Let’s connect on LinkedIn
-.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaish-ansari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jaish%20Ansari-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <a href="mailto:engjaish2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  
-  <!-- Angular -->
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  
-  <!-- Express.js (fixed white background) -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img style="background-color:white; padding:5px; border-radius:5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  
-  <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40" height="40"/>
-  </a>
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  
-  <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=jaish11&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaish11&show_icons=true&locale=en&layout=compact" alt="jaish11" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaish11&show_icons=true&locale=en" alt="jaish11" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jaish11" alt="jaish11" /></p>
+---
+
+## 👨‍💻 About Me
+
+💼 Currently working as a **Software Engineer**  
+🚀 Passionate about building scalable and user-friendly web applications  
+🌱 Expanding backend expertise with **.NET, SQL, and modern architectures**  
+💻 Strong hands-on experience with **MERN Stack Development**  
+🏢 Working on real-world **Enterprise Web Applications**  
+🎯 Focused on clean code, performance, and problem-solving  
+
+---
+
+## 💬 Ask Me About
+
+✔️ Full-Stack Development  
+✔️ .NET Core  
+✔️ .NET Web API  
+✔️ React.js  
+✔️ Angular  
+✔️ Node.js  
+✔️ Express.js  
+✔️ MongoDB  
+✔️ MS SQL Server  
+✔️ Dapper  
+✔️ Entity Framework  
+✔️ Stored Procedures  
+✔️ JavaScript  
+✔️ HTML / CSS  
+✔️ REST APIs  
+✔️ Postman  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jaish-ansari/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:engjaish2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+---
+
+## ⚒️ Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dotnet,mysql,react,angular,js,nodejs,express,html,css,git,postman,vscode,visualstudio" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaish11&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jaish11&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaish11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ✨ Quote
+
+> “Code is not just syntax. It is solving real problems.”
+
+---
